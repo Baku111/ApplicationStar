@@ -1,0 +1,34 @@
+body{
+	background-color: #101010 !important;
+	color: white !important;
+}
+#nav-footer{
+	background-color: #101010 !important;
+}
+#nav-header{
+	background-color: #101010 !important;
+}
+.darkmod-nav-header{
+	color: white !important;
+}
+.discover-gradient svg polygon{
+	fill: #101010 !important;
+}
+.discover-gradient {
+    background: linear-gradient(to bottom right, #ea2b4e, #7e1292);
+}
+.author-name{
+	color: white !important;
+}
+h2{
+	color: white !important;
+}
+h1{
+	color: white !important;
+}
+.item-title{
+	color: white !important;
+}
+.pages-list .item-media{
+	background-color: #888888;
+}
